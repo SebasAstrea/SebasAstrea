@@ -40,4 +40,4 @@ Android nativas. Cada pieza sale con control de calidad ISO/IEC 25000 de extremo
 
 ## Enlaces
 
-[LinkedIn](https://linkedin.com/in/sebasastrea) · [GitHub](https://github.com/SebasAstrea)
+[Portafolio · CV](https://sebasastrea-cv.vercel.app) · [LinkedIn](https://linkedin.com/in/sebasastrea) · [GitHub](https://github.com/SebasAstrea)
