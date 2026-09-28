@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 300" width="1200" height="300" role="img" aria-label="Sebastian Morales Bernal — IA aplicada, full-stack y Android — Bogotá, Colombia">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0a0d12"/>
+      <stop offset="1" stop-color="#161c25"/>
+    </linearGradient>
+    <linearGradient id="sweep" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#f9ad00" stop-opacity="0"/>
+      <stop offset="0.5" stop-color="#f9ad00" stop-opacity="0.5"/>
+      <stop offset="1" stop-color="#f9ad00" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="1200" height="300" fill="url(#bg)"/>
+
+  <g stroke="#1d2229" stroke-width="1">
+    <line x1="200" y1="0" x2="200" y2="300"/>
+    <line x1="400" y1="0" x2="400" y2="300"/>
+    <line x1="600" y1="0" x2="600" y2="300"/>
+    <line x1="800" y1="0" x2="800" y2="300"/>
+    <line x1="1000" y1="0" x2="1000" y2="300"/>
+  </g>
+
+  <rect x="-260" y="0" width="260" height="300" fill="url(#sweep)">
+    <animate attributeName="x" from="-260" to="1200" dur="7s" repeatCount="indefinite"/>
+  </rect>
+
+  <text x="64" y="70" font-family="ui-monospace, 'SFMono-Regular', Menlo, monospace" font-size="13" letter-spacing="3" fill="#82868e">00/07 — IDENTIDAD</text>
+  <text x="1136" y="70" text-anchor="end" font-family="ui-monospace, 'SFMono-Regular', Menlo, monospace" font-size="13" letter-spacing="3" fill="#82868e">DOSSIER v1.0</text>
+
+  <text x="62" y="150" font-family="Georgia, 'Times New Roman', serif" font-size="60" fill="#eff2f6">Sebastian Morales Bernal</text>
+
+  <text x="66" y="190" font-family="ui-monospace, 'SFMono-Regular', Menlo, monospace" font-size="19" letter-spacing="5" fill="#f9ad00">IA APLICADA · FULL-STACK · ANDROID</text>
+
+  <text x="66" y="226" font-family="ui-monospace, 'SFMono-Regular', Menlo, monospace" font-size="15" fill="#82868e">Bogotá, Colombia · Del modelo al dispositivo</text>
+  <rect x="474" y="212" width="10" height="16" fill="#f9ad00">
+    <animate attributeName="opacity" values="1;0;1" dur="1.2s" repeatCount="indefinite"/>
+  </rect>
+
+  <line x1="64" y1="262" x2="1136" y2="262" stroke="#383d47" stroke-width="1"/>
+  <line x1="64" y1="262" x2="1136" y2="262" stroke="#f9ad00" stroke-width="2" stroke-dasharray="120 952">
+    <animate attributeName="stroke-dashoffset" from="0" to="-1072" dur="6s" repeatCount="indefinite"/>
+  </line>
+</svg>
