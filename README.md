@@ -28,7 +28,9 @@ Android nativas. Cada pieza sale con control de calidad ISO/IEC 25000 de extremo
 ## Herramientas
 
 **IA y datos** — PyTorch Básico · Keras Intermedio · TensorFlow Intermedio · CUDA Básico · Ollama Avanzado · ChromaDB Básico · llama-cpp Avanzado · vLLM Básico · LangChain Básico · Llamaindex Básico
+
 **Backend y apps** — Python Intermedio · FastAPI Intermedio · Kotlin Intermedio · PostgreSQL Avanzado
+
 **Infraestructura** — Docker Intermedio · Nginx Básico· Cloudflare Básico· n8n Avanzado
 
 ## Cómo trabajo
