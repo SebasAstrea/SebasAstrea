@@ -35,7 +35,7 @@ Android nativas. Cada pieza sale con control de calidad ISO/IEC 25000 de extremo
 
 ## Cómo trabajo
 
-- **Producción sobre demos.** Lo que no corre y no se puede medir no está terminado.
+- **Producción sobre demos.** Lo que no corre y no se puede medir no está terminado. Los prototipos y pilotos siempre importan.
 - **IA local y privada.** Prefiero la inferencia en el hardware del usuario antes que depender de las APIs en nube.
 - **Calidad de extremo a extremo.** ISO/IEC 25000, desde el requerimiento hasta el mantenimiento.
 - **Ingeniería asistida por agentes.** Automatizo el contexto y la verificación. Decido lo importante y automatizo lo mecánico.
